@@ -1,7 +1,5 @@
 # Top-7-Best-Social-Media-Wall-Tools-for-Events
 
-![img](https://i.ibb.co/kV4rMjnh/Screenshot-2025-08-19-104824.png)
-
 You've probably been to an event where the big screen wasn't just showing slides or logos... it was showing you. That's a social media wall — a live feed of posts, photos, and videos from your guests. And trust me, once people see their face or their post up there, they keep posting.
 
 It's not just a cool tech gimmick — it's a real way to:
@@ -9,11 +7,13 @@ It's not just a cool tech gimmick — it's a real way to:
 - Create buzz
 - Collect content you can use later
 
-But with so many tools out there, picking the right one can be a headache. Don't worry, I've done the digging for you. Here are 7 social media wall tools that actually work and make your event look like it's been planned by a pro.
+But with so many tools out there, picking the right one can be a headache. Don't worry, I've done the digging for you. Here are 7 [**social media wall**](https://socialwalls.com/) tools that actually work and make your event look like it's been planned by a pro.
 
 ## 1. Socialwalls.com – Quick, Easy & Crowd-Friendly
 
-If you just want something that works without hours of setup, Socialwalls.com is worth your first look. It can instantly turn your event screen into a live Instagram wall, pulling in posts from Instagram, TikTok, Twitter (X), Facebook, and more, then showing them off in a clean, branded display. Guests without social media? No problem — they can scan a QR code and upload directly.
+![img](https://i.ibb.co/kV4rMjnh/Screenshot-2025-08-19-104824.png)
+
+If you just want something that works without hours of setup, Socialwalls.com is worth your first look. It can instantly turn your event screen into a [**live Instagram wall**](https://socialwalls.com/instagram-wall/), pulling in posts from Instagram, TikTok, Twitter (X), Facebook, and more, then showing them off in a clean, branded display. Guests without social media? No problem — they can scan a QR code and upload directly.
 
 **What makes it great:**
 - Live social feed updates in seconds
